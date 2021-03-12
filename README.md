@@ -1,5 +1,7 @@
 # Projeto React JS
 
+### Status: Completo
+
 ## Este foi um projeto em que fiz criei um APP React para ser uma pagina que exibe cursos do Senai.
 
 ![image](https://user-images.githubusercontent.com/71882342/110953023-a9290b00-8325-11eb-941b-44becdbb2409.png)
